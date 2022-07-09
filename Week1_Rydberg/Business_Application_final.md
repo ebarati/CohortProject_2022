@@ -15,7 +15,7 @@ Full stack approach:
 
 - Performance analysis
 
-- Hubbard model:
+- Hubbard model: The Hubbard Hamiltonian reads...
 
 $H = - \sum_{\langle i,j \rangle, \sigma} t_{xy}^{ij}(\hat{c]_{i \sigma}^{\dagger} \hat{c}_{j \sigma} + h.c.) + U \sum_{i} (\hat{n}_{i \uparrow} \hat{n}_{i \downarrow}) - \mu \sum_{i} (\hat{n}_{i \uparrow} + \hat{n}_{i \downarrow})$
 
