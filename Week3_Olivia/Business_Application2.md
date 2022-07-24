@@ -2,7 +2,7 @@
 
 # Technical problem
 
-- Impelementation of the Shor's algorithm:
+- Impelementation of Shor's algorithm:
 Shor's algorithm (Peter Shor-1994) undoubtedly is the most well-known quantum algorithm to date. 
 
 - ...
