@@ -1,12 +1,12 @@
 # Business Application of the gate model Shor's algorithm
-## Explain to a layperson the technical problem you solved in this exercise:
+## Technical problem you solved in this exercise:
 Shor's factoring algorithm is one of the first (and few) textbook quantum algorithms with known exponential speedup.  In other words, it computes quantumly
 something that is extremely difficult (if not impossible) to compute classically. Peter Shor developed this algorithm to find the prime factors of an 
 integer.  Two features of Shor's algorithm render its quantum advantage in factoring - the quantum Fourier transform, and repeated squaring by modular 
 exponentiation.  Three common public-key cryptography schemes in use today are vulnerable to quantum computer breakage (via Shor's algorithm) - RSA, Finite Field 
 Diffie-Hellman key exchange, and Elliptic Curve Diffie-Hellman key exchange. 
 
-## Explain or provide examples of the types of real-world problems this solution can solve.
+## Real-world problems this solution can solve.
 Since quantum computing has the potential to be both good and evil, it is necessary to prepare for the inevitable "Y2K moment". Our company proposes a 
 quantum-safe cryptographic solution that will protect your sensitive data (whether it be financial data, health-care data, etc) from hackers and malicious
 actors. There is wide range of potential customers for this problem. Whatever we deal with in the world can be expressed in the form of data. 
